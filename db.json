@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "name": "Ms. Bonnie Monahan",
+      "id": 58
+    },
+    {
+      "name": "Diana Paucek",
+      "id": 60
+    },
+    {
+      "name": "Kellie Kilback",
+      "id": 61
+    },
+    {
+      "name": "Dominick Gorczany",
+      "id": 62
+    },
+    {
+      "name": "Alexander Hermiston",
+      "id": 63
+    },
+    {
+      "name": "Marshall Hamill",
+      "id": 64
+    },
+    {
+      "name": "Mr. Erin Kuhlman",
+      "id": 65
+    },
+    {
+      "name": "Willie Streich IV",
+      "id": 66
+    },
+    {
+      "name": "Wilbert Roob",
+      "id": 67
+    },
+    {
+      "name": "Kristin Schiller",
+      "id": 68
+    },
+    {
+      "name": "Stacy Barton",
+      "id": 69
+    },
+    {
+      "name": "Elias Roberts",
+      "id": 70
+    }
+  ],
+  "albums": [
+    {
+      "userId": 61,
+      "title": "Ergonomic Granite Sausages",
+      "id": 14
+    },
+    {
+      "userId": 63,
+      "title": "Handmade Granite Car",
+      "id": 24
+    },
+    {
+      "userId": 58,
+      "title": "Oriental Granite Chips",
+      "id": 25
+    },
+    {
+      "userId": 60,
+      "title": "Handmade Cotton Gloves",
+      "id": 26
+    },
+    {
+      "userId": 58,
+      "title": "Rustic Concrete Soap",
+      "id": 27
+    },
+    {
+      "userId": 60,
+      "title": "Electronic Bronze Salad",
+      "id": 28
+    },
+    {
+      "userId": 58,
+      "title": "Bespoke Granite Sausages",
+      "id": 29
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4686",
+      "id": 6
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=93938",
+      "id": 10
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15805",
+      "id": 11
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=33000",
+      "id": 12
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=54700",
+      "id": 13
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=34575",
+      "id": 14
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45198",
+      "id": 15
+    },
+    {
+      "albumId": 27,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56662",
+      "id": 16
+    },
+    {
+      "albumId": 26,
+      "url": "https://loremflickr.com/150/150/abstract?lock=76915",
+      "id": 18
+    },
+    {
+      "albumId": 28,
+      "url": "https://loremflickr.com/150/150/abstract?lock=57091",
+      "id": 19
+    }
+  ]
+}
